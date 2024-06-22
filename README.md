@@ -1,0 +1,1 @@
+Projekt do przedmiotu Komunikacja Człowiek-Komputer. Niniejsza alikacja to gra edukacyjna, której celem jest nauka szybkiego pisania na klawiaturze. Użytkownik wciela się w obrońcę zamku, który musi odpierać ataki przeciwników - literek, słów i zdań - poprzez szybkie i poprawne ich wpisywanie.
