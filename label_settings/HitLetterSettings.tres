@@ -1,0 +1,13 @@
+[gd_resource type="LabelSettings" load_steps=2 format=3 uid="uid://kjht4phtpw4d"]
+
+[ext_resource type="FontFile" uid="uid://byvveiph1dks3" path="res://fonts/Karma Suture.otf" id="1_2j0wx"]
+
+[resource]
+font = ExtResource("1_2j0wx")
+font_size = 40
+font_color = Color(1, 0.0531297, 0.208362, 1)
+outline_size = 20
+outline_color = Color(0.494002, 0.0765854, 9.62615e-08, 1)
+shadow_size = 12
+shadow_color = Color(0, 0, 0, 1)
+shadow_offset = Vector2(5, 5)

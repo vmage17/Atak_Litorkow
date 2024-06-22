@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://c8sbp25nqhs15"]
+
+[ext_resource type="Script" path="res://scripts/Variables.cs" id="1_mdfyq"]
+
+[node name="Variables" type="Node"]
+script = ExtResource("1_mdfyq")
